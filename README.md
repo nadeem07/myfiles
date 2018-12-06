@@ -1,6 +1,6 @@
-# Node.js Hello World
+# Node.js 
 
-This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
+This sample demonstrates sending mail using nodemailer
 
 # Contributing
 
